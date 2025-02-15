@@ -41,7 +41,9 @@ This project is a fully responsive website template that includes a navigation b
 - WOW.js: [https://wowjs.uk](https://wowjs.uk)
   
 ## Screenshots
-*(Include relevant screenshots of the project here)*
+
+https://github.com/user-attachments/assets/67a9c08b-3753-459b-b780-98d2bdd738c7
+
 
 
 
